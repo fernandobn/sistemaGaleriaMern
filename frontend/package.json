@@ -4,11 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",     
-    "build": "vite build",  
-    "lint": "eslint .",   
-    "preview": "vite preview",  
-    "start": "vite preview"   
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "start": "vite preview"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
@@ -43,6 +43,6 @@
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
     "rollup": "^4.34.6",
-    "vite": "^6.0.5"
+    "vite": "^6.1.0"
   }
 }
