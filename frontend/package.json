@@ -3,6 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "engines": {
+    "node": "16.x",   // Especifica la versión de Node.js que prefieras
+    "npm": "7.x"      // Especifica la versión de npm si es necesario
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
