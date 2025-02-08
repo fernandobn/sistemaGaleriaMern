@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api", // Cambia esta URL si tu backend tiene otra base
+  baseURL: "https://sistemagaleriamern.onrender.com/api", // URL del backend desplegado en Render
   headers: {
     "Content-Type": "application/json",
   },
